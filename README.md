@@ -1,2 +1,2 @@
 # Jopa-launcher
-it's launcher drom minecraft
+it's launcher from minecraft FROM YOU
